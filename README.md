@@ -94,7 +94,7 @@ My tests can also be found in the python files in the [tests](./preliminary_test
 1. Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/owenstrength/fetch_rewards_ml_take_home_assignment.git
 ```
 
 2. Change into the directory
@@ -122,7 +122,7 @@ docker run -p 8001:8001 fetch-rewards-ml-app
 1. Pull the Docker container from Docker Hub
 
 ```bash
-docker pull
+docker pull owenstrength/fetch_rewards_ml_take_home_assignment
 ```
 
 2. Run the Docker container
